@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #DC5800;
+}
+
+.txt{
+    text-align: center;
+}
+
+.horizontal-line{
+    border: 0.5px solid #ffffffa3;
+    width: 90%;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.lcnd{
+    height: 127px;
+    background-color: #D9D9D9;
+
+}  
